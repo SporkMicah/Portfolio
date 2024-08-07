@@ -1,0 +1,220 @@
+AAA,Authentication, Authorization, and Accounting
+ACL,Access Control List
+AES,Advanced Encryption Standard
+AH,Authentication Header
+AIS,Automated Indicator Sharing
+ALE,Annualized Loss Expectancy
+APT,Advanced Persistent Threat
+ARO,Annualized Rate of Occurrence
+ASLR,Address Space Layout Randomization
+ATT&CK,Adversarial Tactics, Techniques, and Common Knowledge
+BIOS,Basic Input/Output System
+BGP,Border Gateway Protocol
+BPDU,Bridge Protocol Data Unit
+BYOD,Bring Your Own Device
+CA,Certificate Authority
+CAPTCHA,Completely Automated Public Turing Test to Tell Computers and Humans Apart
+CBC,Cipher Block Chaining
+CCMP,Counter Mode/CBC-MAC Protocol
+CCTV,Closed-circuit Television
+CERT,Computer Emergency Response Team
+CHAP,Challenge Handshake Authentication Protocol
+CIA,Confidentiality, Integrity, Availability
+CIO,Chief Information Officer
+CISO,Chief Information Security Officer
+CSP,Cloud Service Provider
+CSRF,Cross-site Request Forgery
+CSS,Cascading Style Sheets
+CSO,Chief Security Officer
+CTO,Chief Technology Officer
+CVSS,Common Vulnerability Scoring System
+DBA,Database Administrator
+DDoS,Distributed Denial of Service
+DEP,Data Execution Prevention
+DES,Data Encryption Standard
+DHCP,Dynamic Host Configuration Protocol
+DLL,Dynamic Link Library
+DMARC,Domain-based Message Authentication, Reporting & Conformance
+DLP,Data Loss Prevention
+DNS,Domain Name System
+DRP,Disaster Recovery Plan
+DSA,Digital Signature Algorithm
+ECDHE,Elliptic Curve Diffie-Hellman Ephemeral
+ECC,Elliptic Curve Cryptography
+EFS,Encrypted File System
+ESP,Encapsulated Security Payload
+FTP,File Transfer Protocol
+FDE,Full Disk Encryption
+GPG,Gnu Privacy Guard
+GPS,Global Positioning System
+GPU,Graphics Processing Unit
+HIDS,Host-based Intrusion Detection System
+HIPS,Host-based Intrusion Prevention System
+HTML,Hypertext Markup Language
+HTTP,Hypertext Transfer Protocol
+HTTPS,Hypertext Transfer Protocol Secure
+HVAC,Heating, Ventilation, and Air Conditioning
+IAM,Identity and Access Management
+ICMP,Internet Control Message Protocol
+IDF,Intermediate Distribution Frame
+IDS,Intrusion Detection System
+IEC,International Electrotechnical Commission
+IEEE,Institute of Electrical and Electronics Engineers
+IKE,Internet Key Exchange
+IMAP,Internet Message Access Protocol
+IP,Internet Protocol
+IPS,Intrusion Prevention System
+IR,Incident Response
+IRP,Incident Response Plan
+ISSO,Information Systems Security Officer
+ISP,Internet Service Provider
+IT,Information Technology
+IV,Initialization Vector
+KDC,Key Distribution Center
+LAN,Local Area Network
+LDAP,Lightweight Directory Access Protocol
+MAC,Media Access Control
+MDF,Main Distribution Frame
+MDM,Mobile Device Management
+MITM,Man-in-the-Middle
+ML,Machine Learning
+MOU,Memorandum of Understanding
+MPLS,Multiprotocol Label Switching
+MSA,Master Service Agreement
+MSCHAP,Microsoft Challenge Handshake Authentication Protocol
+MTBF,Mean Time Between Failures
+MTTF,Mean Time to Failure
+MTU,Maximum Transmission Unit
+NAC,Network Access Control
+NDA,Non-disclosure Agreement
+NIDS,Network-based Intrusion Detection System
+NIPS,Network-based Intrusion Prevention System
+NIST,National Institute of Standards and Technology
+NTFS,New Technology File System
+NTLM,New Technology LAN Manager
+OAUTH,Open Authorization
+OCSP,Online Certificate Status Protocol
+OID,Object Identifier
+OS,Operating System
+OSI,Open Systems Interconnection
+OT,Operational Technology
+OTP,One-Time Password
+OVAL,Open Vulnerability Assessment Language
+P2P,Peer to Peer
+PaaS,Platform as a Service
+PAM,Pluggable Authentication Modules
+PBKDF2,Password-Based Key Derivation Function 2
+PCI DSS,Payment Card Industry Data Security Standard
+PEAP,Protected Extensible Authentication Protocol
+PGP,Pretty Good Privacy
+PII,Personally Identifiable Information
+PKI,Public Key Infrastructure
+POTS,Plain Old Telephone Service
+PPP,Point-to-Point Protocol
+PTZ,Pan-Tilt-Zoom
+RA,Registration Authority
+RADIUS,Remote Authentication Dial-In User Service
+RAS,Remote Access Service
+RAT,Remote Access Trojan
+RBAC,Role-Based Access Control
+RDP,Remote Desktop Protocol
+RFID,Radio Frequency Identification
+RIPEMD,RACE Integrity Primitives Evaluation Message Digest
+ROI,Return on Investment
+RPO,Recovery Point Objective
+RSA,Rivest, Shamir, and Adleman
+RTBH,Remotely Triggered Black Hole
+RTO,Recovery Time Objective
+SaaS,Software as a Service
+SAML,Security Assertions Markup Language
+SAN,Storage Area Network
+SCADA,Supervisory Control and Data Acquisition
+SCEP,Simple Certificate Enrollment Protocol
+SDLC,Software Development Lifecycle
+SFTP,Secure File Transfer Protocol
+SIEM,Security Information and Event Management
+SIM,Subscriber Identity Module
+SLA,Service Level Agreement
+SMB,Server Message Block
+SMTP,Simple Mail Transfer Protocol
+SNMP,Simple Network Management Protocol
+SOAP,Simple Object Access Protocol
+SPIM,Spam over Internet Messaging
+SQL,Structured Query Language
+SRTP,Secure Real-time Transport Protocol
+SSH,Secure Shell
+SSID,Service Set Identifier
+SSL,Secure Sockets Layer
+STP,Spanning Tree Protocol
+TACACS+,Terminal Access Controller Access-Control System Plus
+TCO,Total Cost of Ownership
+TCP/IP,Transmission Control Protocol/Internet Protocol
+TGT,Ticket Granting Ticket
+TLS,Transport Layer Security
+TPM,Trusted Platform Module
+TSIG,Transaction Signature
+TTP,Tactics, Techniques, and Procedures
+UDP,User Datagram Protocol
+UEM,Unified Endpoint Management
+UEFI,Unified Extensible Firmware Interface
+URL,Uniform Resource Locator
+USB,Universal Serial Bus
+UTP,Unshielded Twisted Pair
+VLAN,Virtual Local Area Network
+VoIP,Voice over Internet Protocol
+VPN,Virtual Private Network
+VTC,Video Teleconference
+WAF,Web Application Firewall
+WAN,Wide Area Network
+WEP,Wired Equivalent Privacy
+WPA,Wi-Fi Protected Access
+WPA2,Wi-Fi Protected Access 2
+WPS,Wi-Fi Protected Setup
+WTLS,Wireless Transport Layer Security
+XDR,Extended Detection and Response
+XML,Extensible Markup Language
+XOR,Exclusive Or
+XSRF,Cross-site Request Forgery
+XSS,Cross-site Scripting
+BGP,Border Gateway Protocol
+DHCP,Dynamic Host Configuration Protocol
+DNS,Domain Name System
+FTP,File Transfer Protocol
+HTTP,Hypertext Transfer Protocol
+HTTPS,Hypertext Transfer Protocol Secure
+IMAP,Internet Message Access Protocol
+IP,Internet Protocol
+LDAP,Lightweight Directory Access Protocol
+NTP,Network Time Protocol
+POP3,Post Office Protocol version 3
+RDP,Remote Desktop Protocol
+SMTP,Simple Mail Transfer Protocol
+SNMP,Simple Network Management Protocol
+SSH,Secure Shell
+SSL,Secure Sockets Layer
+TCP/IP,Transmission Control Protocol/Internet Protocol
+UDP,User Datagram Protocol
+VLAN,Virtual Local Area Network
+VPN,Virtual Private Network
+WEP,Wired Equivalent Privacy
+Wi-Fi,Wireless Fidelity
+AV,Antivirus
+DLP,Data Loss Prevention
+IDS,Intrusion Detection System
+IPS,Intrusion Prevention System
+MFA,Multi-Factor Authentication
+NAC,Network Access Control
+SIEM,Security Information and Event Management
+SOC,Security Operations Center
+UEBA,User and Entity Behavior Analytics
+CA,Certificate Authority
+CSR,Certificate Signing Request
+ECC,Elliptic Curve Cryptography
+MD5,Message Digest Algorithm 5
+PKI,Public Key Infrastructure
+SHA,Secure Hash Algorithm
+TLS,Transport Layer Security
+GDPR,General Data Protection Regulation
+HIPAA,Health Insurance Portability and Accountability Act
+PCI DSS,Payment Card Industry Data Security Standard
+SOX,Sarbanes-Oxley Act
